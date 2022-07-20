@@ -1,4 +1,4 @@
-#
+
 
 This lesson will give use of HTML lang and touch back on basic GIT & BASH commands in Terminal.
 
