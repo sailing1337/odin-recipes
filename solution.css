@@ -1,38 +1,22 @@
+
+
 div {
-    background-color: red;
-    color: white;
-    font-size: 32px;
-    text-align: center;
+    color: rgb(253, 253, 253);
+    font-size: 18px;
     font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.odd {
-    background-color: rgb(255, 167, 167);
-    font-family: Verdana, "DejaVu Sans", sans-serif;
-  }
-  
-  #two {
-    color: #0000ff;
-    font-size: 36px;
-  }
- .Two,
- .One {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 28px;
+h1 {
+  color: rgb(232, 191, 12);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul.One, .Two {
+  color: aquamarine;
+}
+
+p {
+  color: rgb(255, 242, 0);
   
 }
-  
-  .One {
-   background-color: black; 
-   color: white;
-
-
-  }
-
-  .Two {
-     background-color: yellow;
-    color: black;
-
-    }
-
-  
