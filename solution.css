@@ -5,6 +5,10 @@ div {
     font-size: 18px;
     font-weight: bold;
     font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+h1 {
+  
 }
 
 h1 {
@@ -21,7 +25,19 @@ p {
   
 }
 
-.Front {
-  text-align: bottom;
+img.wow {
+  position: absolute;
+  padding-left: 600px;
+  padding-right: 600px;
+  clip-path:circle()
+  
 }
+
+p.love1 {
+  position: absolute;
+  padding-left: 600px;
+  padding-right: 600px;
+  font-size: x-large;
+}
+
 
